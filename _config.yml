@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: The Stomping Child
+author: Another Github Father
+email: carefulwhatyouwishfor@worldwideweb.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is an incomplete description of an incomplete person. Like 
+  the person, this is also a daily work in progress. Progress 
+  may be forward or backward. Movement I suppose is the word I'm 
+  looking for. Like the person, this is also a work in movement.
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +13,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: minima
