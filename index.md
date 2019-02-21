@@ -1,3 +1,4 @@
-# Welcome to my blog
+# namaskar!
 
-I'm glad you are here. I plan to talk about ...
+It is a word rooted in Sanskrit, which means *hello*. 
+*Namaste*, **namaskara**, __namaskaram__ are other variants that I know of.
